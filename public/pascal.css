@@ -1,0 +1,13 @@
+a {
+    color: orange;
+}
+a:hover{
+    text-decoration: none;
+}
+html {
+    background-color: #f1f1f1;
+    font-family:cursive
+}
+input {
+    width: 50px;
+}
